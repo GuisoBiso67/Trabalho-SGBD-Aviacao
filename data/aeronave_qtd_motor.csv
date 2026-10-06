@@ -1,0 +1,9 @@
+﻿aeronave_motor_quantidade,aeronave_motor_descricao
+98,NÃO DISPONIVEL
+99,DESCONHECIDO
+0,SEM TRAÇÃO
+1,MONOMOTOR
+2,BIMOTOR
+3,TRIMOTOR
+4,QUADRIMOTOR
+6,DRONE
